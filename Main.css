@@ -102,6 +102,8 @@ h3{
 
 .tabla{
     border-collapse: collapse;
+    max-width: 100%;
+    height: auto;
 }
 th, td{
     border: 1px solid black;
